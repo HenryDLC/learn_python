@@ -1,9 +1,3 @@
----
-layout: "post"
-title: "mysql数据库"
-date: "2019-04-18 22:59"
----
-
 登入mysql
 =======
 
